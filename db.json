@@ -1,0 +1,39 @@
+{
+    "code_hunting":[
+        {
+            "id": 1,
+            "tier_name": "1 Month Trial",
+            "debug": 5,
+            "price": null,
+            "oneonone":false
+        },
+        {
+            "id": 2,
+            "tier_name": "Basic Tier",
+            "debug": 20,
+            "price": 7.99,
+            "oneonone":true
+        },
+        {
+            "id": 3,
+            "tier_name": "Pro Tier",
+            "debug": 40,
+            "price": 15.99,
+            "oneonone":true
+        },
+        {
+            "id": 4,
+            "tier_name": "One and Done",
+            "debug": 1,
+            "price": 2.99,
+            "oneonone":true
+        },
+        {
+            "id": 5,
+            "tier_name": "Expert Tier",
+            "debug": 500,
+            "price": 50,
+            "oneonone":true
+        }
+    ]
+}
