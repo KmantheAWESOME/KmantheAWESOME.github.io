@@ -21,7 +21,7 @@
             "price": 15.99,
             "oneonone":true
         },
-                {
+        {
             "id": 4,
             "tier_name": "Expert Tier",
             "debug": 500,
@@ -39,4 +39,5 @@
     ]
 
 }
+
 
