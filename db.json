@@ -21,20 +21,22 @@
             "price": 15.99,
             "oneonone":true
         },
-        {
+                {
             "id": 4,
-            "tier_name": "One and Done",
-            "debug": 1,
-            "price": 2.99,
-            "oneonone":true
-        },
-        {
-            "id": 5,
             "tier_name": "Expert Tier",
             "debug": 500,
             "price": 50,
             "oneonone":true
+        },
+        {
+            "id": 5,
+            "tier_name": "One and Done",
+            "debug": 1,
+            "price": 2.99,
+            "oneonone":true
         }
+
     ]
 
 }
+
